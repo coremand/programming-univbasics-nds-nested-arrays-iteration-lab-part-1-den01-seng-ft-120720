@@ -16,4 +16,3 @@ end
  outer_index += 1
 end
 end
-find_even_values(array_1)
